@@ -1,1 +1,4 @@
 This is new text file
+
+New Git project.
+Started 
