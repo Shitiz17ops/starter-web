@@ -5,7 +5,7 @@ this change on master
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    name sssssssss
 
 # THANKS
 
