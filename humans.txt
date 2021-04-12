@@ -6,6 +6,7 @@ this change on master
 # TEAM
 
     This is devops team. Adding merge confilcts.
+    Second merge conflict comment
 
 # THANKS
 
