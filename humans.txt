@@ -9,6 +9,9 @@ this change on master
     Second merge conflict comment
     doing some changes on local.
 
+
+    GIT Stash tutorial
+
 # THANKS
 
     <name>
