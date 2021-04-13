@@ -12,6 +12,10 @@ this change on master
 
     GIT Stash tutorial
 
+
+
+    Another change in git stash!
+
 # THANKS
 
     <name>

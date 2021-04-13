@@ -1,1 +1,2 @@
 Git stash notes and tutorial
+git stash another exaample.
